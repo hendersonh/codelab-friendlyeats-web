@@ -4,7 +4,7 @@ export const environment = {
     authDomain: "friendlychat-bba62.firebaseapp.com",
     databaseURL: "https://friendlychat-bba62.firebaseio.com",
     projectId: "friendlychat-bba62",
-    storageBucket: "friendlychat-bba62.appspot.com",
+    storageBucket: "friendlychat-bba62.firebasestorage.app",
     messagingSenderId: "92416365237",
     appId: "1:92416365237:web:56fdc8307712936424a4fc",
   },
