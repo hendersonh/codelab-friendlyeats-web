@@ -124,6 +124,7 @@ addMessage = async (
   textMessage && (message.text = textMessage);
   imageUrl && (message.imageUrl = imageUrl);
 
+  
   try {
     const newMessageRef = await addDoc(
       collection(this.firestore, "messages"),
